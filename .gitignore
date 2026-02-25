@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Models
+*.pkl
+
+# Output files
+data/output/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
